@@ -1,0 +1,443 @@
+[
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "students": {
+            "number": 9998
+        },
+        "total_view": 98997,
+        "title": "Bachelor of Arts (BA) in Media and Mass Communication",
+        "teacher": {
+            "name": "Jimmy Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },        
+        "image_url": "https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/03/14165058/BA-Journalism-and-Mass-Communication.jpg",
+        "details": "A Bachelor of Arts (BA) in Mass Communication and Media is a three-year undergraduate course in the field of Journalism and Mass Communication. While there are courses offered such as BJMC (Bachelor’s of Journalism and Mass Communication) or BMM (Bachelor’s in Mass Communication). A BA in Mass Communication and Media is a bachelor’s programme which covers the study of Mass Media and Mass Communication. Subjects taught in BA in Mass Communication and Media engage with topics such as films, broadcast, radio, television, newspapers, magazines and much more. The main aim of the programme is to teach students the method and mechanism of how information is disseminated through the means of media on a large scale."
+    },
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "category_id": "01",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "students": {
+            "number": 90009
+        },
+        "total_view": 98797,
+        "title": "Bachelor of Arts (BA) in English",
+        "teacher": {
+            "name": "John Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },        
+        "image_url": "https://www.southern.edu.bd/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-13-at-11.08.22-AM.jpeg",
+        "details": "A BA in English is an excellent starting point for a career in teaching, media, advertising, writing and publishing; for graduate or professional studies in English, communications, or law; and for advancement in any field in which communication skills are important.National University’s Bachelor of Arts in English emphasizes literary analysis, diversity, critical thinking, and written and oral communication skills through a rigorous curriculum of literature, composition, language and linguistics, and communication studies.NU’s curriculum is designed for students seeking a flexible way to earn their degree. Offered online in the four-week class format, you can complete the program at an accelerated pace under a supportive and dedicated faculty of active practitioners.For those that wish to enter the teaching profession, NU’s BA in English provides the transferable expertise you need to pursue your grade-level of choice – and the committed support of our faculty to help you get there. If you are interested in teaching English or Language Arts in middle or secondary schools, you should learn more about our Bachelor of Arts in English with Single Subject Matter Preparation and Inspired Teaching and Learning Preliminary Single Subject Teaching Credential (CALIFORNIA)."
+    },
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6c",
+        "category_id": "01",
+        "rating": {
+            "number": 4.4,
+            "badge": "Excellent"
+        },
+        "students": {
+            "number": 9009
+        },
+        "total_view": 9897,
+        "title": "Bachelor of Law (LLB)",
+        "teacher": {
+            "name": "Jonota Banerjee",
+            "published_date": "2022-09-24 17:27:34",
+            "img": "https://gyanvitaranamlawcollege.com/media/course/BA-LLB-img.webp"
+        },        
+        "image_url": "https://cdn.unicafuniversity.com/websites/unicafuniversity/wp-content/uploads/2017/11/13101301/llm.jpg",
+        "details": "General Education, Core & Elective Courses: 108 semester credit hours. The Four-year curriculum develops students’ analytical ability, knowledge of the theory and practice of law, communications skills, and an understanding of the codes of professional responsibility and ethics central to the practice of law. Students experience a variety of teaching methods, including the traditional case and Socratic methods, as well as problems, simulations, role-playing, computer-assisted instruction and interaction with actual clients. After completing first-year requirements, students can tailor their course load to fit their interests and career plans. After successful completion of LLB four years degree , student may participate Bangladesh Bar Council examination."
+    },
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6d",
+        "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "students": {
+            "number": 905579
+        },
+        "total_view": 9844887,
+        "title": "Bachelor of Social Science (BSS) in Economics",
+        "teacher": {
+            "name": "John Dane",
+            "published_date": "2022-10-24 17:20:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },        
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/CMB_Timeline_No_Labels_or_WMAP.jpg",
+        "details": "AIUB University's Department of Economics and Social Sciences (ESS) offers its students a broad, comprehensive, demanding and innovative Bachelor of Social Science (BSS) degree in Economics. The core courses of the Economics major program will create a strong theoretical base for any further study in economics. Then electives courses can be chosen from a broad range of higher level theoretical as well as applied courses. This gives the students an opportunity for an understanding of various areas in economics. Depending upon their interest, students may choose theoretical courses, which enable the scope of graduate studies in respective areas, or applied courses in different areas for a career in those fields."
+    },
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6e",
+        "category_id": "02",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "students": {
+            "number": 9009
+        },
+        "total_view": 98797,
+        "title": "Accounting",
+        "teacher": {
+            "name": "John Salton",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },        
+        "image_url": "https://cdn.corporatefinanceinstitute.com/assets/accounting.jpeg",
+        "details": "Accounting is the process of recording financial transactions pertaining to a business. The accounting process includes summarizing, analyzing, and reporting these transactions to oversight agencies, regulators, and tax collection entities. The financial statements used in accounting are a concise summary of financial transactions over an accounting period, summarizing a company's operations, financial position, and cash flows."
+    },
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6f",
+        "category_id": "02",
+        "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+        },
+        "students": {
+            "number": 90909
+        },
+        "total_view": 987979,
+        "title": "Finance",
+        "teacher": {
+            "name": "John Costa",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },        
+        "image_url": "https://s31898.pcdn.co/wp-content/uploads/2022/05/desk-with-personal-finance-items-e1652175201474.jpg",
+        "details": "Finance is defined as the management of money and includes activities such as investing, borrowing, lending, budgeting, saving, and forecasting. There are three main types of finance: (1) personal, (2) corporate, and (3) public/government. Video Explanation of Finance. Watch this short video to quickly understand the main concepts covered in this guide. It’ll explain the definition of finance, provide examples of finance, and cover some of the common topics on finance. The easiest way to define finance is by providing examples of the activities it includes. There are many different career paths and jobs that perform a wide range of finance activities."
+    },
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6g",
+        "category_id": "02",
+        "rating": {
+            "number": 4.6,
+            "badge": "Excellent"
+        },
+        "students": {
+            "number": 9079
+        },
+        "total_view": 98799,
+        "title": "Human Resource Management (HRM)",
+        "teacher": {
+            "name": "John Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },        
+        "image_url": "https://www.managementstudyguide.com/images/human-resource-management-in-article.png",
+        "details": "Human resource management (HRM) is the practice of recruiting, hiring, deploying and managing an organization's employees. HRM is often referred to simply as human resources (HR). A company or organization's HR department is usually responsible for creating, putting into effect and overseeing policies governing workers and the relationship of the organization with its employees. The term human resources was first used in the early 1900s, and then more widely in the 1960s, to describe the people who work for the organization, in aggregate.HRM is employee management with an emphasis on those employees as assets of the business. In this context, employees are sometimes referred to as human capital. As with other business assets, the goal is to make effective use of employees, reducing risk and maximizing return on investment (ROI).The modern HR technology term human capital management (HCM) has been used more frequently compared to the term HRM. The term HCM has had widespread adoption by large and midsize companies and other organizations of software to manage many HR functions."
+    },
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6h",
+        "category_id": "02",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "students": {
+            "number": 9059
+        },
+        "total_view": 98779,
+        "title": "International Business (IB)",
+        "teacher": {
+            "name": "John Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },        
+        "image_url": "https://img.freepik.com/premium-vector/international-business-letter-i-b-logo_7791-68.jpg",
+        "details": "International business refers to the trade of goods, services, technology, capital and/or knowledge across national borders and at a global or transnational scale.It involves cross-border transactions of goods and services between two or more countries. Transactions of economic resources include capital, skills, and people for the purpose of the international production of physical goods and services such as finance, banking, insurance, and construction. International business is also known as globalization.To conduct business overseas, multinational companies need to bridge separate national markets into one global marketplace. There are two macro-scale factors that underline the trend of greater globalization. The first consists of eliminating barriers to make cross-border trade easier (e.g. free flow of goods and services, and capital, referred to as 'free trade'). The second is technological change, particularly developments in communication, information processing, and transportation technologies."
+    },
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6i",
+        "category_id": "02",
+        "rating": {
+            "number": 4.6,
+            "badge": "Excellent"
+        },
+        "students": {
+            "number": 9009
+        },
+        "total_view": 98797,
+        "title": "Marketing",
+        "teacher": {
+            "name": "John Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },        
+        "image_url": "https://neilpatel.com/wp-content/uploads/2021/07/digital-marketing_featured-image.png",
+        "details": "Marketing research is the function that links the consumer, customer, and public to the marketer through information—information used to identify and define opportunities and problems; generate, refine, and evaluate actions; monitor performance; and improve understanding of it as a process. It specifies the information required to address these issues, designs the method for collecting information, manages and implements the data collection process, analyzes the results, and communicates the findings and their implications. (Approved 2017)Definition of BrandA brand is a name, term, design, symbol, or any other feature that identifies one seller’s goods or service as distinct from those of other sellers.ISO brand standards add that a brand “is an intangible asset” that is intended to create “distinctive images and associations in the minds of stakeholders, thereby generating economic benefit/values.”"
+    },
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6j",
+        "category_id": "03",
+        "rating": {
+            "number": 4.3,
+            "badge": "Excellent"
+        },
+        "students": {
+            "number": 9009
+        },
+        "total_view": 98797,
+        "title": "Bachelor of Architecture (BArch)",
+        "teacher": {
+            "name": "John Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },        
+        "image_url": "https://5.imimg.com/data5/OK/LF/GLADMIN-15453034/architectural-design-course-500x500.png",
+        "details": "Architectural education in Australia varies depending on the university offering the course. All Australian architecture schools and programs have recently moved to some variation on the 3 + 2 Bologna model, with a three-year undergraduate degree, followed by a two-year course-work based Master of Architecture professional degree. Some universities also require 6–12 months of practice work experience between the two degrees. Registration as an architect is via state-based boards and requires a minimum of two years practice experience under the supervision of a registered architect. In addition there are double degrees offered by many universities, such as those combining architecture with construction or landscape architecture. Some universities also offer masters programs in architecture via coursework or research. Many architecture faculties offer related programs in landscape architecture, urban planning, urban design, property and construction. Entry to Australian architecture programs is highly competitive and the proportion of students at some architecture schools from outside Australia is very high, up to 40%."
+    },
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6k",
+        "category_id": "03",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "students": {
+            "number": 70009
+        },
+        "total_view": 987597,
+        "title": "Bachelor of Science (BSc) in Electrical and Electronic Engineering (EEE)",
+        "teacher": {
+            "name": "John Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },        
+        "image_url": "https://www.apu.edu.my/sites/default/files/01_bachelor-of-engineering-in-electrical-electronic-engineering-with-honours.jpg",
+        "details": "Electrical engineering is an engineering discipline concerned with the study, design, and application of equipment, devices, and systems which use electricity, electronics, and electromagnetism. It emerged as an identifiable occupation in the latter half of the 19th century after commercialization of the electric telegraph, the telephone, and electrical power generation, distribution, and use.Electrical engineering is now divided into a wide range of different fields, including computer engineering, systems engineering, power engineering, telecommunications, radio-frequency engineering, signal processing, instrumentation, photovoltaic cells, electronics, and optics and photonics. Many of these disciplines overlap with other engineering branches, spanning a huge number of specializations including hardware engineering, power electronics, electromagnetics and waves, microwave engineering, nanotechnology, electrochemistry, renewable energies, mechatronics/control, and electrical materials science.[a]Electrical engineers typically hold a degree in electrical engineering or electronic engineering. Practising engineers may have professional certification and be members of a professional body or an international standards organization. These include the International Electrotechnical Commission (IEC), the Institute of Electrical and Electronics Engineers (IEEE) and the Institution of Engineering and Technology (IET) (formerly the IEE).Electrical engineers work in a very wide range of industries and the skills required are likewise variable. These range from circuit theory to the management skills of a project manager. The tools and equipment that an individual engineer may need are similarly variable, ranging from a simple voltmeter to sophisticated design and manufacturing software."
+    },
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6l",
+        "category_id": "03",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "students": {
+            "number": 90669
+        },
+        "total_view": 987967,
+        "title": "Bachelor of Science (BSc) in Computer Engineering  (CoE)",
+        "teacher": {
+            "name": "John Dane",
+            "published_date": "2022-06-24 17:27:30",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },        
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcADML__f2NlhdGYqySOlP9SuQgzDGMYGPX_jDD0_gez2kpUQiW1Ju8ygesd4xGHU6P0&usqp=CAU",
+        "details": "Computer engineering (CoE or CpE) is a branch of electrical engineering that integrates several fields of computer science and electronic engineering required to develop computer hardware and software.[1] Computer engineers not only require training in electronic engineering, software design, and hardware-software integration, but also in software engineering. It uses the techniques and principles of electrical engineering and computer science, but also covers areas such as artificial intelligence (AI), robotics, computer networks, computer architecture and operating systems. Computer engineers are involved in many hardware and software aspects of computing, from the design of individual microcontrollers, microprocessors, personal computers, and supercomputers, to circuit design. This field of engineering not only focuses on how computer systems themselves work, yet it also demands them to integrate into the larger picture.[2] Robots are one of the applications of computer engineering.Computer Engineering usually deal with areas including writing software and firmware for embedded microcontrollers, designing VLSI chips, designing analog sensors, designing mixed signal circuit boards, and designing operating systems. Computer engineers are also suited for robotics research, which relies heavily on using digital systems to control and monitor electrical systems like motors, communications, and sensors.In many institutions of higher learning, computer engineering students are allowed to choose areas of in-depth study in their junior and senior year because the full breadth of knowledge used in the design and application of computers is beyond the scope of an undergraduate degree. Other institutions may require engineering students to complete one or two years of general engineering before declaring computer engineering as their primary focus."
+    },
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6m",
+        "category_id": "03",
+        "rating": {
+            "number": 4.0,
+            "badge": "Excellent"
+        },
+        "students": {
+            "number": 90039
+        },
+        "total_view": 987397,
+        "title": "Bachelor of Science (BSc) in Industrial and Production Engineering (IPE)",
+        "teacher": {
+            "name": "John Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },        
+        "image_url": "https://aust.edu/storage/files/7RZWWe8Sg7I8tJ7zvHXcY7eGY6jvPNexIakkaT71.jpg",
+        "details": "Industrial and production engineering (IPE) is an interdisciplinary engineering discipline that includes manufacturing technology, engineering sciences, management science, and optimization of complex processes, systems, or organizations. It is concerned with the understanding and application of engineering procedures in manufacturing processes and production methods.[1][2] Industrial engineering dates back all the way to the industrial revolution, initiated in 1700s by Sir Adam Smith, Henry Ford, Eli Whitney, Frank Gilbreth and Lilian Gilbreth, Henry Gantt, F.W. Taylor, etc. After the 1970s, industrial and production engineering developed worldwide and started to widely use automation and robotics. Industrial and production engineering includes three areas: Mechanical engineering (where the production engineering comes from), industrial engineering, and management science.The objective is to improve efficiency, drive up effectiveness of manufacturing, quality control, and to reduce cost while making their products more attractive and marketable. Industrial engineering is concerned with the development, improvement, and implementation of integrated systems of people, money, knowledge, information, equipment, energy, materials, as well as analysis and synthesis. The principles of IPE include mathematical, physical and social sciences and methods of engineering design to specify, predict, and evaluate the results to be obtained from the systems or processes currently in place or being developed.[3] The target of production engineering is to complete the production process in the smoothest, most-judicious and most-economic way. Production engineering also overlaps substantially with manufacturing engineering and industrial engineering.[4] The concept of production engineering is interchangeable with manufacturing engineering.As for education, undergraduates normally start off by taking courses such as physics, mathematics (calculus, linear analysis, differential equations), computer science, and chemistry. Undergraduates will take more major specific courses like production and inventory scheduling, process management, CAD/CAM manufacturing, ergonomics, etc., towards the later years of their undergraduate careers. In some parts of the world, universities will offer Bachelor's in Industrial and Production Engineering. However, most universities in the U.S. will offer them separately. Various career paths that may follow for industrial and production engineers include: Plant Engineers, Manufacturing Engineers, Quality Engineers, Process Engineers and industrial managers, project management, manufacturing, production and distribution, From the various career paths people can take as an industrial and production engineer, most average a starting salary of at least $50,000."
+    },
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6n",
+        "category_id": "04",
+        "rating": {
+            "number": 4.2,
+            "badge": "Excellent"
+        },
+        "students": {
+            "number": 90009
+        },
+        "total_view": 987337,
+        "title": "Bachelor of Science (BSc) in Computer Science and Engineering (CSE)",
+        "teacher": {
+            "name": "John Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },        
+        "image_url": "https://www.educationafter12th.com/wp-content/uploads/2016/06/Career-after-computer-science-engineering-bsc-syllabus.jpg",
+        "details": "Academic programs vary between colleges. Undergraduate Courses usually include programming, algorithms and data structures, computer architecture, operating systems, computer networks, parallel computing, embedded systems, algorithms design, circuit analysis and electronics, digital logic and processor design, computer graphics, scientific computing, software engineering, database systems, digital signal processing, virtualization, computer simulations and games programming. CSE programs also include core subjects of theoretical computer science such as theory of computation, numerical methods, machine learning, programming theory and paradigms.[2] Modern academic programs also cover emerging computing fields like image processing, data science, robotics, bio-inspired computing, computational biology, autonomic computing and artificial intelligence.[3] Most of the above CSE areas require initial mathematical knowledge, hence the first year of study is dominated by mathematical courses, primarily discrete mathematics, mathematical analysis, linear algebra, probability, and statistics, as well as the basics of Electrical and electronic engineering, physics - field theory, and electromagnetism."
+    },
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6o",
+        "category_id": "06",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "students": {
+            "number": 9009
+        },
+        "total_view": 98797,
+        "title": "DIFFERENTIAL CALCULUS & CO-ORDINATE GEOMETRY",
+        "teacher": {
+            "name": "John Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },        
+        "image_url": "https://images-na.ssl-images-amazon.com/images/I/41kxuBzZVtL._SY498_BO1,204,203,200_.jpg",
+        "details": "In mathematics, differential calculus is a subfield of calculus that studies the rates at which quantities change.[1] It is one of the two traditional divisions of calculus, the other being integral calculus—the study of the area beneath a curve.[2]The primary objects of study in differential calculus are the derivative of a function, related notions such as the differential, and their applications. The derivative of a function at a chosen input value describes the rate of change of the function near that input value. The process of finding a derivative is called differentiation. Geometrically, the derivative at a point is the slope of the tangent line to the graph of the function at that point, provided that the derivative exists and is defined at that point. For a real-valued function of a single real variable, the derivative of a function at a point generally determines the best linear approximation to the function at that point.Differential calculus and integral calculus are connected by the fundamental theorem of calculus, which states that differentiation is the reverse process to integration.Differentiation has applications in nearly all quantitative disciplines. In physics, the derivative of the displacement of a moving body with respect to time is the velocity of the body, and the derivative of the velocity with respect to time is acceleration. The derivative of the momentum of a body with respect to time equals the force applied to the body; rearranging this derivative statement leads to the famous F = ma equation associated with Newton's second law of motion. The reaction rate of a chemical reaction is a derivative. In operations research, derivatives determine the most efficient ways to transport materials and design factories."
+    },
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6p",
+        "category_id": "05",
+        "rating": {
+            "number": 4.2,
+            "badge": "Excellent"
+        },
+        "students": {
+            "number": 90089
+        },
+        "total_view": 987977,
+        "title": "DISCRETE MATHEMATICS",
+        "teacher": {
+            "name": "John Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },        
+        "image_url": "https://imgv2-1-f.scribdassets.com/img/word_document/282478158/original/216x287/2394db8206/1652290099?v=1",
+        "details": "Discrete mathematics is the study of mathematical structures that can be considered discrete (in a way analogous to discrete variables, having a bijection with the set of natural numbers) rather than continuous (analogously to continuous functions). Objects studied in discrete mathematics include integers, graphs, and statements in logic.[1][2][3][4] By contrast, discrete mathematics excludes topics in continuous mathematics such as real numbers, calculus or Euclidean geometry. Discrete objects can often be enumerated by integers; more formally, discrete mathematics has been characterized as the branch of mathematics dealing with countable sets[5] (finite sets or sets with the same cardinality as the natural numbers). However, there is no exact definition of the term discrete mathematics.[6]The set of objects studied in discrete mathematics can be finite or infinite. The term finite mathematics is sometimes applied to parts of the field of discrete mathematics that deals with finite sets, particularly those areas relevant to business.Research in discrete mathematics increased in the latter half of the twentieth century partly due to the development of digital computers which operate in 'discrete' steps and store data in discrete bits. Concepts and notations from discrete mathematics are useful in studying and describing objects and problems in branches of computer science, such as computer algorithms, programming languages, cryptography, automated theorem proving, and software development. Conversely, computer implementations are significant in applying ideas from discrete mathematics to real-world problems.Although the main objects of study in discrete mathematics are discrete objects, analytic methods from continuous mathematics are often employed as well."
+    },
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6q",
+        "category_id": "05",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "students": {
+            "number": 90099
+        },
+        "total_view": 987797,
+        "title": "INTEGRAL CALCULUS & ORDINARY DIFFERENTIAL EQUATIONS",
+        "teacher": {
+            "name": "John Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },        
+        "image_url": "https://static1.eboighar.com/thumbimages/Books/book_95612020-01-26_1580028445.jpg",
+        "details": "Among ordinary differential equations, linear differential equations play a prominent role for several reasons. Most elementary and special functions that are encountered in physics and applied mathematics are solutions of linear differential equations (see Holonomic function). When physical phenomena are modeled with non-linear equations, they are generally approximated by linear differential equations for an easier solution. The few non-linear ODEs that can be solved explicitly are generally solved by transforming the equation into an equivalent linear ODE (see, for example Riccati equation).Some ODEs can be solved explicitly in terms of known functions and integrals. When that is not possible, the equation for computing the Taylor series of the solutions may be useful. For applied problems, numerical methods for ordinary differential equations can supply an approximation of the solution. ODE with Fuzzy concept as Fuzzy differential equation for uncertainty conditions."
+    },
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6",
+        "category_id": "06",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "students": {
+            "number": 90091
+        },
+        "total_view": 987971,
+        "title": "Construction Engineering",
+        "teacher": {
+            "name": "John Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },        
+        "image_url": "https://i.pinimg.com/originals/3f/af/92/3faf92b0ec8e7803f92e24068d04734e.jpg",
+        "details": "One of the oldest and broadest engineering disciplines, Civil Engineering involves planning, designing, constructing, maintaining and supervising infrastructures which include facilities essential to modern life like highways, bridges and tunnels, schools, hospitals, airports and other buildings, sewage systems and water treatment facilities. Subsequently, the course also involves protecting the public and environmental health as well as improving existing infrastructure.According to a new research report by Global Market Insights, Inc, the Civil Engineering Market size is expected to grow up to USD 11.72 trillion by 2025.Various colleges in India offer Civil engineering at the UG and PG level, thus leading to BTech and MTech degrees respectively."
+    },
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab",
+        "category_id": "06",
+        "rating": {
+            "number": 4.3,
+            "badge": "Excellent"
+        },
+        "students": {
+            "number": 98809
+        },
+        "total_view": 987979,
+        "title": "Geotechnical Engineering",
+        "teacher": {
+            "name": "John Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },        
+        "image_url": "https://i0.wp.com/ce.udel.edu/wp-content/uploads/2020/12/compactiontestslg-400x266-1.jpg?fit=600%2C399&ssl=1",
+        "details": "Geotechnical engineering is the branch of civil engineering concerned with the engineering behavior of earth materials. It uses the principles of soil mechanics and rock mechanics for the solution of its respective engineering problems. It also relies on knowledge of geology, hydrology, geophysics, and other related sciences. Geotechnical (rock) engineering is a subdiscipline of geological engineering.In addition to civil engineering, geotechnical engineering also has applications in military, mining, petroleum, coastal engineering, and offshore construction. The fields of geotechnical engineering and engineering geology have knowledge areas that overlap, however, while geotechnical engineering is a specialty of civil engineering, engineering geology is a specialty of geology: They share the same principles of soil mechanics and rock mechanics, but differ in the application."
+    },
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2",
+        "category_id": "06",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "students": {
+            "number": 90035
+        },
+        "total_view": 987957,
+        "title": "Structural Engineering",
+        "teacher": {
+            "name": "John Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },        
+        "image_url": "https://www.fenews.co.uk/wp-content/uploads/2019/10/structural_engineer.jpg",
+        "details": "Structural engineering is a sub-discipline of civil engineering in which structural engineers are trained to design the 'bones and muscles' that create the form and shape of man-made structures. Structural engineers also must understand and calculate the stability, strength, rigidity and earthquake-susceptibility of built structures for buildings[1] and non building structures. The structural designs are integrated with those of other designers such as architects and building services engineer and often supervise the construction of projects by contractors on site.[2] They can also be involved in the design of machinery, medical equipment, and vehicles where structural integrity affects functioning and safety. See glossary of structural engineering.Structural engineering theory is based upon applied physical laws and empirical knowledge of the structural performance of different materials and geometries. Structural engineering design uses a number of relatively simple structural concepts to build complex structural systems. Structural engineers are responsible for making creative and efficient use of funds, structural elements and materials to achieve these goals."
+    },
+    {
+        "id": "0282e0e58a5c404fbd15261f11",
+        "category_id": "06",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "students": {
+            "number": 9009
+        },
+        "total_view": 98797,
+        "title": "Bridge Engineering",
+        "teacher": {
+            "name": "John Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },        
+        "image_url": "https://www.theengineeringcommunity.org/wp-content/uploads/2018/11/bridge-types.jpg",
+        "details": "A bridge is a structure built to span a physical obstacle (such as a body of water, valley, road, or rail) without blocking the way underneath. It is constructed for the purpose of providing passage over the obstacle, which is usually something that is otherwise difficult or impossible to cross. There are many different designs of bridges, each serving a particular purpose and applicable to different situations. Designs of bridges vary depending on factors such as the function of the bridge, the nature of the terrain where the bridge is constructed and anchored, and the material used to make it, and the funds available to build it.The earliest bridges were likely made with fallen trees and stepping stones. The Neolithic people built boardwalk bridges across marshland. The Arkadiko Bridge (dating from the 13th century BC, in the Peloponnese) is one of the oldest arch bridges still in existence and use."
+    },
+    {
+        "id": "0282e0e58a5c404fbd15261f1",
+        "category_id": "06",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "students": {
+            "number": 9009
+        },
+        "total_view": 98797,
+        "title": "Environmental Engineering",
+        "teacher": {
+            "name": "John Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },        
+        "image_url": "https://www.usnews.com/dims4/USNEWS/bcc4405/2147483647/crop/1000x656%2B0%2B1/resize/640x420/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2F47%2Fa8%2F23c9d76744b2bb061f91860c318d%2F160120-enviroengjpg-stock.jpg",
+        "details": "Environmental engineering is a professional engineering discipline that encompasses broad scientific topics like chemistry, biology, ecology, geology, hydraulics, hydrology, microbiology, and mathematics to create solutions that will protect and also improve the health of living organisms and improve the quality of the environment.[1][2] Environmental engineering is a sub-discipline of civil engineering and chemical engineering. While on the part of civil engineering, the Environmental Engineering is focused mainly on Sanitary Engineering.[3]Environmental engineering is the application of scientific and engineering principles to improve and maintain the environment to:protect human health,protect nature's beneficial ecosystems,and improve environmental-related enhancement of the quality of human life.[1]Environmental engineers devise solutions for wastewater management, water and air pollution control, recycling, waste disposal, and public health.[2][4] They design municipal water supply and industrial wastewater treatment systems,[5][6] and design plans to prevent waterborne diseases and improve sanitation in urban, rural and recreational areas. They evaluate hazardous-waste management systems to evaluate the severity of such hazards, advise on treatment and containment, and develop regulations to prevent mishaps. They implement environmental engineering law, as in assessing the environmental impact of proposed construction projects.Environmental engineers study the effect of technological advances on the environment, addressing local and worldwide environmental issues such as acid rain, global warming, ozone depletion, water pollution and air pollution from automobile exhausts and industrial sources."
+    }
+    
+]
