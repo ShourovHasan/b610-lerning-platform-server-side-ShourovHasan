@@ -2,6 +2,7 @@
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab6a",
         "category_id": "01",
+        "course_price": "15000",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -22,6 +23,7 @@
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab6b",
         "category_id": "01",
+        "course_price": "18000",
         "rating": {
             "number": 4.8,
             "badge": "Excellent"
@@ -42,6 +44,7 @@
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab6c",
         "category_id": "01",
+        "course_price": "15000",
         "rating": {
             "number": 4.4,
             "badge": "Excellent"
@@ -62,6 +65,7 @@
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab6d",
         "category_id": "01",
+        "course_price": "18000",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -82,6 +86,7 @@
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab6e",
         "category_id": "02",
+        "course_price": "15000",
         "rating": {
             "number": 4.8,
             "badge": "Excellent"
@@ -102,6 +107,7 @@
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab6f",
         "category_id": "02",
+        "course_price": "20000",
         "rating": {
             "number": 4.7,
             "badge": "Excellent"
@@ -122,6 +128,7 @@
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab6g",
         "category_id": "02",
+        "course_price": "15000",
         "rating": {
             "number": 4.6,
             "badge": "Excellent"
@@ -142,6 +149,7 @@
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab6h",
         "category_id": "02",
+        "course_price": "18000",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -162,6 +170,7 @@
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab6i",
         "category_id": "02",
+        "course_price": "15000",
         "rating": {
             "number": 4.6,
             "badge": "Excellent"
@@ -182,6 +191,7 @@
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab6j",
         "category_id": "03",
+        "course_price": "15000",
         "rating": {
             "number": 4.3,
             "badge": "Excellent"
@@ -202,6 +212,7 @@
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab6k",
         "category_id": "03",
+        "course_price": "18000",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -222,6 +233,7 @@
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab6l",
         "category_id": "03",
+        "course_price": "15000",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -242,6 +254,7 @@
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab6m",
         "category_id": "03",
+        "course_price": "20000",
         "rating": {
             "number": 4.0,
             "badge": "Excellent"
@@ -262,6 +275,7 @@
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab6n",
         "category_id": "04",
+        "course_price": "18000",
         "rating": {
             "number": 4.2,
             "badge": "Excellent"
@@ -282,6 +296,7 @@
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab6o",
         "category_id": "06",
+        "course_price": "15000",
         "rating": {
             "number": 4.8,
             "badge": "Excellent"
@@ -302,6 +317,7 @@
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab6p",
         "category_id": "05",
+        "course_price": "20000",
         "rating": {
             "number": 4.2,
             "badge": "Excellent"
@@ -322,6 +338,7 @@
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab6q",
         "category_id": "05",
+        "course_price": "15000",
         "rating": {
             "number": 4.8,
             "badge": "Excellent"
@@ -342,6 +359,7 @@
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab6",
         "category_id": "06",
+        "course_price": "18000",
         "rating": {
             "number": 4.8,
             "badge": "Excellent"
@@ -362,6 +380,7 @@
     {
         "id": "0282e0e58a5c404fbd15261f11c2ab",
         "category_id": "06",
+        "course_price": "15000",
         "rating": {
             "number": 4.3,
             "badge": "Excellent"
@@ -382,6 +401,7 @@
     {
         "id": "0282e0e58a5c404fbd15261f11c2",
         "category_id": "06",
+        "course_price": "20000",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -402,6 +422,7 @@
     {
         "id": "0282e0e58a5c404fbd15261f11",
         "category_id": "06",
+        "course_price": "15000",
         "rating": {
             "number": 4.8,
             "badge": "Excellent"
@@ -422,6 +443,7 @@
     {
         "id": "0282e0e58a5c404fbd15261f1",
         "category_id": "06",
+        "course_price": "18000",
         "rating": {
             "number": 4.8,
             "badge": "Excellent"
