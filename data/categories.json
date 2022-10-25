@@ -1,0 +1,30 @@
+[
+    {
+        "id": "01",
+        "name": "Arts and Social Sciences"
+    },
+    {
+        "id": "02",
+        "name": "Business Administration"
+    },
+    {
+        "id": "03",
+        "name": "Engineering"
+    },
+    {
+        "id": "04",
+        "name": "Science And Technology"
+    },
+    {
+        "id": "05",
+        "name": "Mathematics"
+    },
+    {
+        "id": "06",
+        "name": "Civil Engineering"
+    },
+    {
+        "id": "07",
+        "name": "ALl Courses"
+    }
+]
