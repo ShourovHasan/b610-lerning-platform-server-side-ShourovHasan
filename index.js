@@ -16,24 +16,30 @@ app.get('/courses-categories', (req, res) => {
     res.send(categories);
 });
 
-app.get('/courses', (req, res) => {
+app.get('/allCourses/courses', (req, res) => {
     res.send(courses);
 });
 
-app.get('/category/:id', (req, res) => {
+app.get('/allCourses/category/:id', (req, res) => {
     const id = req.params.id;
     if (id === '07') {
         res.send(courses);
     }
     else {
-        const categoryNews = courses.filter(nw => nw.category_id === id);
-        res.send(categoryNews);
+        const categoryCourses = courses.filter(nw => nw.category_id === id);
+        res.send(categoryCourses);
     }
 })
-app.get('/courses/:id', (req, res) => {
+app.get('/allCourses/courses/:id', (req, res) => {
     const id = req.params.id
-    const selectedNews = courses.find(nw => nw.id === id);
-    res.send(selectedNews);
+    const selectedCourses = courses.find(course => course.id === id);
+    res.send(selectedCourses);
+    // console.log(req.params.id);
+})
+app.get('/allCourses/courses/checkout/:id', (req, res) => {
+    const id = req.params.id
+    const selectedCourses = courses.find(course => course.id === id);
+    res.send(selectedCourses);
     // console.log(req.params.id);
 })
 
